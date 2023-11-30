@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="carviOne">#9FBFA7</color>
+    <color name="carviTwo">#BFD9C5</color>
+    <color name="carviThree">#A8BFAE</color>
+    <color name="carviFour">#CCD9CF</color>
+    <color name="carviFive">#F2F2F2</color>
+</resources>
