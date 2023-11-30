@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511801065934",
+    "project_id": "carvi-248ab",
+    "storage_bucket": "carvi-248ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511801065934:android:98b202306b7b73154e6b9f",
+        "android_client_info": {
+          "package_name": "com.example.carvi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJiIsTe55ypIhUiQPS0k0-LSWsE4Pa-WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
