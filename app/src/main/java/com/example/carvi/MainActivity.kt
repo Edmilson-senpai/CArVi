@@ -8,10 +8,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Button
 import android.widget.EditText
-<<<<<<< HEAD
 import android.widget.TextView
-=======
->>>>>>> d51167a9a3f9cb148f602945b211ce6812703b05
 import android.widget.Toast
 import com.google.firebase.firestore.FirebaseFirestore
 
@@ -21,11 +18,6 @@ class MainActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")
 
     private lateinit var db: FirebaseFirestore
-<<<<<<< HEAD
-    private lateinit var waifus: TextView
-=======
-    private lateinit var lolis: Button
->>>>>>> d51167a9a3f9cb148f602945b211ce6812703b05
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
