@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
     @SuppressLint("MissingInflatedId")
 
     private lateinit var db: FirebaseFirestore
+    private lateinit var lolis: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
